@@ -1,5 +1,5 @@
-# The basic knowledge of NLP
 【[Home](https://simplelp.github.io/)】<br>
+
 
 # Notes
 
