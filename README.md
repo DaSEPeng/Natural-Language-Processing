@@ -1,6 +1,4 @@
-# NLP CS224N
-
-## 1. Course Info
+# 1. Course Info
 - LECTURER
 	- [Chris Manning](https://nlp.stanford.edu/~manning/)
 - HOMEPAGE
@@ -8,12 +6,12 @@
 - VIDEO
 	- [B站视频](https://www.bilibili.com/video/av46216519/)
 
-## 2. LEARNING NOTES
+# 2. LEARNING NOTES
 
-## 3. PROJECTS
+# 3. PROJECTS
 
 
-## 4. OTHER REFERENCES
+# 4. OTHER REFERENCES
 - [NLP@FUDAN DATA](http://www.sdspeople.fudan.edu.cn/zywei/DATA130006/index.html)&emsp;[[CODE](https://github.com/Rshcaroline/FDU-Natural-Language-Processing)]
 - [NLP@FUDAN CS (XIPENG QIU)](https://textprocessing.github.io/)
 - [Foundations of Statistical Natural Language Processing](https://nlp.stanford.edu/fsnlp/)
