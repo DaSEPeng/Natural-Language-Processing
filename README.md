@@ -1,6 +1,6 @@
 【[Homepage](https://simplelp.github.io/)】          
 
-# 1. Course Info
+# 1. COURSE INFOMATION
 - LECTURER
 	- [Chris Manning](https://nlp.stanford.edu/~manning/)
 - HOMEPAGE
