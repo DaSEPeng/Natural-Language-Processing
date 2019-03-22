@@ -6,16 +6,24 @@
 - HOMEPAGE
 	- [CS224N](http://web.stanford.edu/class/cs224n/index.html)
 - VIDEO
-	- [B站视频](https://www.bilibili.com/video/av46216519/)
+	- [BILIBILI](https://www.bilibili.com/video/av46216519/)
 
-# 2. LEARNING NOTES
+# 2. NOTES AND PROJECTS
 
-# 3. PROJECTS
+**COURSE NOTES AND PROJECTS**
+
+| NUM|DATE |  CONTENT      |    NOTES | PROJECT  |
+| :-----|:--| :-------- | :--------| :-- |
+|1 |2019/03/24|Introduction to NLP and Word2Vec   |  |     |
 
 
-# 4. OTHER REFERENCES
+
+**FINAL PROJECT**
+- DUE
+
+# 3. OTHER REFERENCES
 - [NLP@FUDAN DATA](http://www.sdspeople.fudan.edu.cn/zywei/DATA130006/index.html)&emsp;[[CODE](https://github.com/Rshcaroline/FDU-Natural-Language-Processing)]
-- [NLP@FUDAN CS (XIPENG QIU)](https://textprocessing.github.io/)
+- [NLP@FUDAN CS](https://textprocessing.github.io/)
 - [Foundations of Statistical Natural Language Processing](https://nlp.stanford.edu/fsnlp/)
 - [CS 124: From Languages to Information](https://web.stanford.edu/class/cs124/)
 - [CS 276 / LING 286: Information Retrieval and Web Search](http://web.stanford.edu/class/cs276/)
