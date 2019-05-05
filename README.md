@@ -34,9 +34,10 @@
 - [DL&NLP@Oxford ×DeepMind](https://edu.aliyun.com/course/844?utm_content=m_44346)&emsp;[[GitHub](https://github.com/oxford-cs-deepnlp-2017/lectures)]
 
 
-
+-----------------------------------------------------------------------------------------
 
 <div style="text-align:center;">
+<a href="https://simplelp.github.io/">Peng's Homepage</a>	
 <a href="https://github.com/SimpleLP/Natural-Language-Processing/">View on GitHub</a>
 </div>
 
