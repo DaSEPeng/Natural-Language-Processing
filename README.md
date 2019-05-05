@@ -35,7 +35,7 @@
 
 
 
-<center>[View on GitHub](https://github.com/SimpleLP/Natural-Language-Processing/)<center>
+$$[View on GitHub](https://github.com/SimpleLP/Natural-Language-Processing/)$$
 
 
 
