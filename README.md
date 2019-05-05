@@ -37,7 +37,7 @@
 -----------------------------------------------------------------------------------------
 
 <div style="text-align:center;">
-<a href="https://simplelp.github.io/">Peng's Homepage</a>	
+This page maintained by @ <a href="https://simplelp.github.io/">SimplePeng</a>, 	
 <a href="https://github.com/SimpleLP/Natural-Language-Processing/">View on GitHub</a>
 </div>
 
