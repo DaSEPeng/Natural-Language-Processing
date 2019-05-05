@@ -35,7 +35,8 @@
 
 
 
-$$[View on GitHub](https://github.com/SimpleLP/Natural-Language-Processing/)$$
+
+<center><a href = "https://github.com/SimpleLP/Natural-Language-Processing/">View on GitHub</a> </center>
 
 
 
