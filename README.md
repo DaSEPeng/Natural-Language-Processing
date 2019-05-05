@@ -1,4 +1,4 @@
-【[Homepage](https://simplelp.github.io/)】          
+【 **[Home](https://simplelp.github.io/)** 】 &emsp; 【 **[View on GitHub](https://github.com/SimpleLP/Natural-Language-Processing/)** 】             
 
 # 1. COURSE INFOMATION
 - LECTURER
