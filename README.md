@@ -1,5 +1,4 @@
-【 **[Home](https://simplelp.github.io/)** 】<br>
-【 **[View on GitHub](https://github.com/SimpleLP/Natural-Language-Processing/)** 】     
+【 **[HOMEPAGE](https://simplelp.github.io/)** 】&emsp;【 **[BLOG PAGE](https://simplelp.github.io/Blog/)** 】【 **[VIEW ON GITHUB](https://github.com/SimpleLP/Natural-Language-Processing/)** 】     
 
 ------------------------------------------------------------
 
