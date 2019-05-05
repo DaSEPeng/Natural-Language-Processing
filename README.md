@@ -36,8 +36,9 @@
 
 
 
-<center><a href = "https://github.com/SimpleLP/Natural-Language-Processing/">View on GitHub</a> </center>
-
+<div style="text-align:center;">
+<a href="https://github.com/SimpleLP/Natural-Language-Processing/">View on GitHub</a>
+</div>
 
 
 
