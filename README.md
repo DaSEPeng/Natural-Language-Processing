@@ -1,6 +1,6 @@
 ------------------------------------------------------------
 
-[HOMEPAGE](https://simplelp.github.io/)>[BLOG PAGE](https://simplelp.github.io/Blog/)>[VIEW ON GITHUB](https://github.com/SimpleLP/Natural-Language-Processing/)   
+[HOMEPAGE](https://simplelp.github.io/)/[BLOG PAGE](https://simplelp.github.io/Blog/)/[VIEW ON GITHUB](https://github.com/SimpleLP/Natural-Language-Processing/)   
 
 ------------------------------------------------------------
 
