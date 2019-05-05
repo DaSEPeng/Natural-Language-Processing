@@ -1,5 +1,6 @@
 【 **[Home](https://simplelp.github.io/)** 】 &emsp; 【 **[View on GitHub](https://github.com/SimpleLP/Natural-Language-Processing/)** 】    
-**Big Picture**
+**Big Picture** <br>
+
 ![RoadMap](NLPRoadMap.png)
 
 # 1. COURSE INFOMATION
