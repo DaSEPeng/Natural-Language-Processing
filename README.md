@@ -1,6 +1,6 @@
 **BIG PICTURE** <br>
 
-![RoadMap](NLPRoadMap.png)
+![RoadMap](NLPRoadMap.PNG)
 
 # 1. COURSE INFOMATION
 - LECTURER
