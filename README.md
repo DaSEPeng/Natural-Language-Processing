@@ -44,7 +44,7 @@
 
 
 **NLP实战**
-- 待续
+- [NLP-Beginner：自然语言处理入门练习](https://github.com/SimpleLP/nlp-beginner)
 
 **NLP数学原理**
 - [Foundations of Statistical Natural Language Processing](https://nlp.stanford.edu/fsnlp/)
