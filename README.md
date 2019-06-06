@@ -36,6 +36,8 @@
 
 **NLP入门**
 - [Bag of Words Meets Bags of Popcorn](https://www.kaggle.com/c/word2vec-nlp-tutorial)
+- [复旦大学邱锡鹏教授：词法、句法分析研究进展综述（2019年5月1日）](https://mp.weixin.qq.com/s/AP4TCnRfIccqAxDu4FlBew)
+- [A Summary of Constituent Parsing](https://godweiyang.com/2018/09/26/constituent-parsing-summary/)&emsp;[递归神经网络](https://zybuluo.com/hanbingtao/note/626300)
 
 **NLP基础**
 - 统计自然语言处理（第二版），宗成庆著 [[Video](https://www.bilibili.com/video/av23334120/?p=32)] [[Video2](https://www.bilibili.com/video/av27183045/?p=1)]
