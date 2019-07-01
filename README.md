@@ -22,28 +22,28 @@
 
 
 
-| NUM|DATE |  CONTENT      |    NOTES |READINGS | PROJECT  |
-| :-----|:--| :-------- | :--------| :-- | :-- |
-|1 |1st Week, July |[Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/),[TensorFlow](https://pan.baidu.com/s/1c19SI56#list/path=%2F)/PyTorch  | | | |
-|2 |2ed Week, July |Introduction and Word Vectors  | | |  Assignment 1|
-|3 |3rd Week, July |Word Vectors 2 and Word Senses  | | | |
-|4 |4th Week, July |Word Window Classification, Neural Networks, and Matrix Calculus  | | |Assignment 2  |
-|5 |1st Week, Aug. |Backpropagation and Computation Graphs  | | | |
-|6 |2ed Week, Aug. |Linguistic Structure: Dependency Parsing  | | |Assignment 3  |
-|7 |3ed Week, Aug. |The probability of a sentence? Recurrent Neural Networks and Language Models  | | | |
-|8 |4th Week, Aug. |Vanishing Gradients and Fancy RNNs  | | | Assignment 4 |
-|9 |1st Week, Sept. |Machine Translation, Seq2Seq and Attention  | | | |
-|10 |2ed Week, Sept. |Practical Tips for Final Projects/Question Answering and the Default Final Project  | | | |
-|11 |3rd Week, Sept. |ConvNets for NLP  | | | |
-|12 |4th Week, Sept. |Information from parts of words: Subword Models  | | |Assignment 5  | 
-|13 |1st Week, Oct. |Modeling contexts of use: Contextual Representations and Pretraining  | | | |
-|14 |2ed Week, Oct. |Transformers and Self-Attention For Generative Models  | | | |
-|15 |3rd Week, Oct. |Natural Language Generation  | | | | 
-|16 |4th Week, Oct.  |Reference in Language and Coreference Resolution | | | | 
-|17 |1st Week, Nov. |Multitask Learning: A general model for NLP?  | | | Final Project |
-|18 |2ed Week, Nov. |Constituency Parsing and Tree Recursive Neural Networks  | | | |
-|19 |3rd Week, Nov. |Safety, Bias, and Fairness  | | | |
-|20 |4th Week, Nov. |Future of NLP + Deep Learning | | | |
+|WEEK |  CONTENT      |    NOTES |READINGS | PROJECT  |
+|:--| :-------- | :--------| :-- | :-- |
+|1st Week, July |[Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/),[TensorFlow](https://pan.baidu.com/s/1c19SI56#list/path=%2F)/PyTorch  | | | |
+|2ed Week, July |Introduction and Word Vectors  | | |  Assignment 1|
+|3rd Week, July |Word Vectors 2 and Word Senses  | | | |
+|4th Week, July |Word Window Classification, Neural Networks, and Matrix Calculus  | | |Assignment 2  |
+|1st Week, Aug. |Backpropagation and Computation Graphs  | | | |
+|2ed Week, Aug. |Linguistic Structure: Dependency Parsing  | | |Assignment 3  |
+|3ed Week, Aug. |The probability of a sentence? Recurrent Neural Networks and Language Models  | | | |
+|4th Week, Aug. |Vanishing Gradients and Fancy RNNs  | | | Assignment 4 |
+|1st Week, Sept. |Machine Translation, Seq2Seq and Attention  | | | |
+|2ed Week, Sept. |Practical Tips for Final Projects/Question Answering and the Default Final Project  | | | |
+|3rd Week, Sept. |ConvNets for NLP  | | | |
+|4th Week, Sept. |Information from parts of words: Subword Models  | | |Assignment 5  | 
+|1st Week, Oct. |Modeling contexts of use: Contextual Representations and Pretraining  | | | |
+|2ed Week, Oct. |Transformers and Self-Attention For Generative Models  | | | |
+|3rd Week, Oct. |Natural Language Generation  | | | | 
+|4th Week, Oct.  |Reference in Language and Coreference Resolution | | | | 
+|1st Week, Nov. |Multitask Learning: A general model for NLP?  | | | Final Project |
+|2ed Week, Nov. |Constituency Parsing and Tree Recursive Neural Networks  | | | |
+|3rd Week, Nov. |Safety, Bias, and Fairness  | | | |
+|4th Week, Nov. |Future of NLP + Deep Learning | | | |
 
 
 
