@@ -24,7 +24,7 @@
 
 |WEEK |  CONTENT      |    NOTES |READINGS | PROJECT  |
 |:--| :-------- | :--------| :-- | :-- |
-|1st Week, July |[Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/),[TensorFlow](https://pan.baidu.com/s/1c19SI56#list/path=%2F)/PyTorch  | | | |
+|1st Week, July |[Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/),[TensorFlow](https://pan.baidu.com/s/1c19SI56#list/path=%2F)/[PyTorch](https://pan.baidu.com/s/1cpoyXw)  | | | |
 |2ed Week, July |Introduction and Word Vectors  | | |  Assignment 1|
 |3rd Week, July |Word Vectors 2 and Word Senses  | | | |
 |4th Week, July |Word Window Classification, Neural Networks, and Matrix Calculus  | | |Assignment 2  |
