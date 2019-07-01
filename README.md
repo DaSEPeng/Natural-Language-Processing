@@ -23,7 +23,7 @@
 
 
 | NUM|DATE |  CONTENT      |    NOTES |READINGS | PROJECT  |
-| :-----|:--| :-------- | :--------| :-- |
+| :-----|:--| :-------- | :--------| :-- | :-- |
 |1 |1st Week, July |[Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/),[TensorFlow](https://pan.baidu.com/s/1c19SI56#list/path=%2F)/PyTorch  | | | |
 |2 |2ed Week, July |Introduction and Word Vectors  | | |  Assignment 1|
 |3 |3rd Week, July |Word Vectors 2 and Word Senses  | | | |
