@@ -58,19 +58,12 @@
 - [Bag of Words Meets Bags of Popcorn](https://www.kaggle.com/c/word2vec-nlp-tutorial)
 - [复旦大学邱锡鹏教授：词法、句法分析研究进展综述（2019年5月1日）](https://mp.weixin.qq.com/s/AP4TCnRfIccqAxDu4FlBew)
 - [A Summary of Constituent Parsing](https://godweiyang.com/2018/09/26/constituent-parsing-summary/)&emsp;[递归神经网络](https://zybuluo.com/hanbingtao/note/626300)
+- [NLP-Beginner：自然语言处理入门练习](https://github.com/SimpleLP/nlp-beginner)
 
 **NLP基础**
 - 统计自然语言处理（第二版），宗成庆著 [[Video](https://www.bilibili.com/video/av23334120/?p=32)] [[Video2](https://www.bilibili.com/video/av27183045/?p=1)]
 - [Speech and Language Processing, Dan Jurafsky and James H. Martin](https://web.stanford.edu/~jurafsky/slp3/)
 - [CS224n: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/)
-
-
-**NLP实战**
-- [NLP-Beginner：自然语言处理入门练习](https://github.com/SimpleLP/nlp-beginner)
-
-**NLP数学原理**
-- [Foundations of Statistical Natural Language Processing](https://nlp.stanford.edu/fsnlp/)
-
 
 
 
@@ -82,6 +75,7 @@
 - [601.465/665: Natural Language Processing](https://www.cs.jhu.edu/~jason/465/)
 - [COMS W4705: Natural Language Processing](http://www.cs.columbia.edu/~mcollins/cs4705-spring2019/)
 - [DL&NLP@Oxford ×DeepMind](https://edu.aliyun.com/course/844?utm_content=m_44346)&emsp;[[GitHub](https://github.com/oxford-cs-deepnlp-2017/lectures)]
+- [Foundations of Statistical Natural Language Processing](https://nlp.stanford.edu/fsnlp/)
 
 
 
