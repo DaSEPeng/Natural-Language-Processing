@@ -25,28 +25,28 @@
 
 
 
-|  CONTENT      |   READINGS  |NOTES| PROJECT  |
-| :-------- | :--------| :-- | :-- |
-|[Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/),[TensorFlow](https://pan.baidu.com/s/1c19SI56#list/path=%2F)/[PyTorch](https://pan.baidu.com/s/1cpoyXw)  | | | |
-|Introduction and Word Vectors  | | |  Assignment 1|
-|Word Vectors 2 and Word Senses  | | | |
-|Word Window Classification, Neural Networks, and Matrix Calculus  | | |Assignment 2  |
-|Backpropagation and Computation Graphs  | | | |
-|Linguistic Structure: Dependency Parsing  | | |Assignment 3  |
-|The probability of a sentence? Recurrent Neural Networks and Language Models  | | | |
-|Vanishing Gradients and Fancy RNNs  | | | Assignment 4 |
-|Machine Translation, Seq2Seq and Attention  | | | |
-|Practical Tips for Final Projects/Question Answering and the Default Final Project  | | | |
-|ConvNets for NLP  | | | |
-|Information from parts of words: Subword Models  | | |Assignment 5  | 
-|Modeling contexts of use: Contextual Representations and Pretraining  | | | |
-|Transformers and Self-Attention For Generative Models  | | | |
-|Natural Language Generation  | | | | 
-|Reference in Language and Coreference Resolution | | | | 
-|Multitask Learning: A general model for NLP?  | | | Final Project |
-|Constituency Parsing and Tree Recursive Neural Networks  | | | |
-|Safety, Bias, and Fairness  | | | |
-|Future of NLP + Deep Learning | | | |
+| DATE |  CONTENT      |   READINGS  |NOTES| PROJECT  |
+| :--- | :-------- | :--------| :-- | :-- |
+| |[Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/),[TensorFlow](https://pan.baidu.com/s/1c19SI56#list/path=%2F)/[PyTorch](https://pan.baidu.com/s/1cpoyXw)  | | | |
+| |Introduction and Word Vectors  | | |  Assignment 1|
+| |Word Vectors 2 and Word Senses  | | | |
+| |Word Window Classification, Neural Networks, and Matrix Calculus  | | |Assignment 2  |
+| |Backpropagation and Computation Graphs  | | | |
+| |Linguistic Structure: Dependency Parsing  | | |Assignment 3  |
+| |The probability of a sentence? Recurrent Neural Networks and Language Models  | | | |
+| |Vanishing Gradients and Fancy RNNs  | | | Assignment 4 |
+| |Machine Translation, Seq2Seq and Attention  | | | |
+| |Practical Tips for Final Projects/Question Answering and the Default Final Project  | | | |
+| |ConvNets for NLP  | | | |
+| |Information from parts of words: Subword Models  | | |Assignment 5  | 
+| |Modeling contexts of use: Contextual Representations and Pretraining  | | | |
+| |Transformers and Self-Attention For Generative Models  | | | |
+| |Natural Language Generation  | | | | 
+| |Reference in Language and Coreference Resolution | | | | 
+| |Multitask Learning: A general model for NLP?  | | | Final Project |
+| |Constituency Parsing and Tree Recursive Neural Networks  | | | |
+| |Safety, Bias, and Fairness  | | | |
+| |Future of NLP + Deep Learning | | | |
 
 
 
