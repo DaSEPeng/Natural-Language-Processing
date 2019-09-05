@@ -1,5 +1,3 @@
-**BIG PICTURE** <br>
-
 
 ![RoadMap](NLPRoadMap.PNG)
 
