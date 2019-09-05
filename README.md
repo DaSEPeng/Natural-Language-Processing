@@ -63,12 +63,6 @@
 - [A Summary of Constituent Parsing](https://godweiyang.com/2018/09/26/constituent-parsing-summary/)&emsp;[递归神经网络](https://zybuluo.com/hanbingtao/note/626300)
 - [NLP-Beginner：自然语言处理入门练习](https://github.com/SimpleLP/nlp-beginner)
 
-**NLP基础**
-- 统计自然语言处理（第二版），宗成庆著 [[Video](https://www.bilibili.com/video/av23334120/?p=32)] [[Video2](https://www.bilibili.com/video/av27183045/?p=1)]
-- [Speech and Language Processing, Dan Jurafsky and James H. Martin](https://web.stanford.edu/~jurafsky/slp3/)
-
-
-
 
 **附加材料**
 - [如何写一篇合格的NLP论文](https://zhuanlan.zhihu.com/p/58752815)
@@ -79,6 +73,7 @@
 - [COMS W4705: Natural Language Processing](http://www.cs.columbia.edu/~mcollins/cs4705-spring2019/)
 - [DL&NLP@Oxford ×DeepMind](https://edu.aliyun.com/course/844?utm_content=m_44346)&emsp;[[GitHub](https://github.com/oxford-cs-deepnlp-2017/lectures)]
 - [Foundations of Statistical Natural Language Processing](https://nlp.stanford.edu/fsnlp/)
+- 统计自然语言处理（第二版），宗成庆著
 
 
 
