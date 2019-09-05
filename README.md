@@ -6,13 +6,16 @@
 
 # 1. COURSE INFOMATION
 
-
-- LECTURER
+- Lecturer
 	- [Chris Manning](https://nlp.stanford.edu/~manning/)
-- HOMEPAGE
+- Homepage
 	- [CS224N](http://web.stanford.edu/class/cs224n/index.html)
-- VIDEO
-	- [BILIBILI](https://www.bilibili.com/video/av46216519/)
+- Reference Texts
+	- [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/), Dan Jurafsky and James H. Martin.
+	- [Natural Language Processing](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), Jacob Eisenstein.
+	- [A Primer on Neural Network Models for Natural Language Processing](http://u.cs.biu.ac.il/~yogo/nnlp.pdf), Yoav Goldberg.
+- Video
+	- [Bilibili](https://www.bilibili.com/video/av46216519/)
 
 # 2. NOTES AND PROJECTS
 
@@ -22,28 +25,28 @@
 
 
 
-|WEEK |  CONTENT      |    NOTES |READINGS | PROJECT  |
-|:--| :-------- | :--------| :-- | :-- |
-|1st Week, July |[Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/),[TensorFlow](https://pan.baidu.com/s/1c19SI56#list/path=%2F)/[PyTorch](https://pan.baidu.com/s/1cpoyXw)  | | | |
-|2ed Week, July |Introduction and Word Vectors  | | |  Assignment 1|
-|3rd Week, July |Word Vectors 2 and Word Senses  | | | |
-|4th Week, July |Word Window Classification, Neural Networks, and Matrix Calculus  | | |Assignment 2  |
-|1st Week, Aug. |Backpropagation and Computation Graphs  | | | |
-|2ed Week, Aug. |Linguistic Structure: Dependency Parsing  | | |Assignment 3  |
-|3ed Week, Aug. |The probability of a sentence? Recurrent Neural Networks and Language Models  | | | |
-|4th Week, Aug. |Vanishing Gradients and Fancy RNNs  | | | Assignment 4 |
-|1st Week, Sept. |Machine Translation, Seq2Seq and Attention  | | | |
-|2ed Week, Sept. |Practical Tips for Final Projects/Question Answering and the Default Final Project  | | | |
-|3rd Week, Sept. |ConvNets for NLP  | | | |
-|4th Week, Sept. |Information from parts of words: Subword Models  | | |Assignment 5  | 
-|1st Week, Oct. |Modeling contexts of use: Contextual Representations and Pretraining  | | | |
-|2ed Week, Oct. |Transformers and Self-Attention For Generative Models  | | | |
-|3rd Week, Oct. |Natural Language Generation  | | | | 
-|4th Week, Oct.  |Reference in Language and Coreference Resolution | | | | 
-|1st Week, Nov. |Multitask Learning: A general model for NLP?  | | | Final Project |
-|2ed Week, Nov. |Constituency Parsing and Tree Recursive Neural Networks  | | | |
-|3rd Week, Nov. |Safety, Bias, and Fairness  | | | |
-|4th Week, Nov. |Future of NLP + Deep Learning | | | |
+|  CONTENT      |   READINGS  |NOTES| PROJECT  |
+| :-------- | :--------| :-- | :-- |
+|[Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/),[TensorFlow](https://pan.baidu.com/s/1c19SI56#list/path=%2F)/[PyTorch](https://pan.baidu.com/s/1cpoyXw)  | | | |
+|Introduction and Word Vectors  | | |  Assignment 1|
+|Word Vectors 2 and Word Senses  | | | |
+|Word Window Classification, Neural Networks, and Matrix Calculus  | | |Assignment 2  |
+|Backpropagation and Computation Graphs  | | | |
+|Linguistic Structure: Dependency Parsing  | | |Assignment 3  |
+|The probability of a sentence? Recurrent Neural Networks and Language Models  | | | |
+|Vanishing Gradients and Fancy RNNs  | | | Assignment 4 |
+|Machine Translation, Seq2Seq and Attention  | | | |
+|Practical Tips for Final Projects/Question Answering and the Default Final Project  | | | |
+|ConvNets for NLP  | | | |
+|Information from parts of words: Subword Models  | | |Assignment 5  | 
+|Modeling contexts of use: Contextual Representations and Pretraining  | | | |
+|Transformers and Self-Attention For Generative Models  | | | |
+|Natural Language Generation  | | | | 
+|Reference in Language and Coreference Resolution | | | | 
+|Multitask Learning: A general model for NLP?  | | | Final Project |
+|Constituency Parsing and Tree Recursive Neural Networks  | | | |
+|Safety, Bias, and Fairness  | | | |
+|Future of NLP + Deep Learning | | | |
 
 
 
@@ -63,7 +66,7 @@
 **NLP基础**
 - 统计自然语言处理（第二版），宗成庆著 [[Video](https://www.bilibili.com/video/av23334120/?p=32)] [[Video2](https://www.bilibili.com/video/av27183045/?p=1)]
 - [Speech and Language Processing, Dan Jurafsky and James H. Martin](https://web.stanford.edu/~jurafsky/slp3/)
-- [CS224n: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/)
+
 
 
 
