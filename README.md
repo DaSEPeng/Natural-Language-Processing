@@ -10,12 +10,13 @@
 	- [CS224N](http://web.stanford.edu/class/cs224n/index.html)
 - Reference Materials
 	- [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/), Dan Jurafsky and James H. Martin.
-	- []()
-	- [COMS W4705: Natural Language Processing](http://www.cs.columbia.edu/~mcollins/cs4705-spring2019/)
+	- [Natural Language Processing Slides,2012](https://web.stanford.edu/~jurafsky/NLPCourseraSlides.html?utm_source=wechat_session&utm_medium=social&utm_oi=844207196790202368)
 	- [Natural Language Processing](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), Jacob Eisenstein.
 	- [A Primer on Neural Network Models for Natural Language Processing](http://u.cs.biu.ac.il/~yogo/nnlp.pdf), Yoav Goldberg.
 - Video
-	- [Bilibili](https://www.bilibili.com/video/av46216519/)
+	- [CS224N](https://www.bilibili.com/video/av46216519/)
+	- [Natural Language Processing,2012](https://www.bilibili.com/video/av35805262?from=search&seid=16460359899435869094)
+	- [COMS W4705: Natural Language Processing](http://www.cs.columbia.edu/~mcollins/cs4705-spring2019/)
 
 # 2. NOTES AND PROJECTS
 
