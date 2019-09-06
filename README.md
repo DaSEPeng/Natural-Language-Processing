@@ -8,8 +8,10 @@
 	- [Chris Manning](https://nlp.stanford.edu/~manning/)
 - Homepage
 	- [CS224N](http://web.stanford.edu/class/cs224n/index.html)
-- Reference Texts
+- Reference Materials
 	- [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/), Dan Jurafsky and James H. Martin.
+	- []()
+	- [COMS W4705: Natural Language Processing](http://www.cs.columbia.edu/~mcollins/cs4705-spring2019/)
 	- [Natural Language Processing](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), Jacob Eisenstein.
 	- [A Primer on Neural Network Models for Natural Language Processing](http://u.cs.biu.ac.il/~yogo/nnlp.pdf), Yoav Goldberg.
 - Video
@@ -68,7 +70,6 @@
 - [NLP@FUDAN DATA](http://www.sdspeople.fudan.edu.cn/zywei/DATA130006/index.html)&emsp;[[CODE](https://github.com/Rshcaroline/FDU-Natural-Language-Processing)]
 - [NLP@FUDAN CS](https://textprocessing.github.io/)
 - [601.465/665: Natural Language Processing](https://www.cs.jhu.edu/~jason/465/)
-- [COMS W4705: Natural Language Processing](http://www.cs.columbia.edu/~mcollins/cs4705-spring2019/)
 - [DL&NLP@Oxford ×DeepMind](https://edu.aliyun.com/course/844?utm_content=m_44346)&emsp;[[GitHub](https://github.com/oxford-cs-deepnlp-2017/lectures)]
 - [Foundations of Statistical Natural Language Processing](https://nlp.stanford.edu/fsnlp/)
 - 统计自然语言处理（第二版），宗成庆著
