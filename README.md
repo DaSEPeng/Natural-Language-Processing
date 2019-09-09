@@ -27,11 +27,11 @@
 
 
 
-| DATE |  CONTENT      |   READINGS  |NOTES| PROJECT  |
+| DATE |  CONTENT      |   MATERIALS  |NOTES| PROJECT  |
 | :--- | :-------- | :--------| :-- | :-- |
 | |[Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/),[TensorFlow](https://pan.baidu.com/s/1c19SI56#list/path=%2F)/[PyTorch](https://pan.baidu.com/s/1cpoyXw)  | | | |
-| |Introduction and Word Vectors  | | |  Assignment 1|
-| |Word Vectors 2 and Word Senses  | | | |
+|2019/09/05 |Introduction and Word Vectors  |[Word Embedding](https://www.bilibili.com/video/av48285039/?p=67), Hung-yi Lee | |  Assignment 1|
+|2019/09/05 |Word Vectors 2 and Word Senses  | | | |
 | |Word Window Classification, Neural Networks, and Matrix Calculus  | | |Assignment 2  |
 | |Backpropagation and Computation Graphs  | | | |
 | |Linguistic Structure: Dependency Parsing  | | |Assignment 3  |
