@@ -14,6 +14,7 @@
 	- [Algorithms for NLP, CMU](http://demo.clab.cs.cmu.edu/11711fa18/)
 	- [Natural Language Processing](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), Jacob Eisenstein.
 	- [A Primer on Neural Network Models for Natural Language Processing](http://u.cs.biu.ac.il/~yogo/nnlp.pdf), Yoav Goldberg.
+	- [CS224U Natural Language Understanding](https://web.stanford.edu/class/cs224u/)
 - Video
 	- [CS224N](https://www.bilibili.com/video/av46216519/)
 	- [Natural Language Processing, 2012](https://www.bilibili.com/video/av35805262?from=search&seid=16460359899435869094)
