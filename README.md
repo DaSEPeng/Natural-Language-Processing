@@ -90,8 +90,8 @@
 -----------------------------------------------------------------------------------------
 
 <div style="text-align:center;">
-This page maintained by @ <a href="https://simplelp.github.io/">SimplePeng</a>, 	
-<a href="https://github.com/SimpleLP/Natural-Language-Processing/">View on GitHub</a>
+This page maintained by @ <a href="https://dasepeng.github.io/">SimplePeng</a>, 	
+<a href="https://github.com/DaSEPeng/Natural-Language-Processing/">View on GitHub</a>
 </div>
 
 
