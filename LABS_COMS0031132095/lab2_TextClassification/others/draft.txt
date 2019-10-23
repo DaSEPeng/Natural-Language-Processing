@@ -1,0 +1,75 @@
+### 基于监督学习的中文文本分类 ####
+下面是还没有看的：
+# https://github.com/kk7nc/Text_Classification
+# https://github.com/InsaneLife/ChineseNLPCorpus
+# https://www.cnblogs.com/the-wolf-sky/p/11298117.html
+# https://github.com/search?p=2&q=text+classification&type=Repositories
+# https://blog.csdn.net/u010859324/article/details/81282635
+
+
+
+文本预处理         # https://www.cnblogs.com/lookfor404/p/9784630.html
+    - 探索性数据分析
+        - 每个类都有多少文章
+        - 每个类的文章长度是怎样的（基于字、基于词、基于句子、暂时没有办法基于段落）
+        - 所有的文章长度是怎样的
+    - 分词
+    - 去除停用词
+
+文本特征表示
+    - 关键词提取，去除低频词等
+    - 特征选择（只提取重点词汇；基于DF；基于信息增益；基于卡方统计量；基于互信息；Robertson & Sparck Jones 公式）
+    - 非编码（实数）：朴素贝叶斯模型（一元特征、二元特征（其实已经有语义了）、三元特征、语义 N 元特征Syntactic N-Gram）
+    - 单词向量空间模型（作为符号）
+        - 字、词、二元特征、三元特征、多层特征结合
+        - 是否出现（没有加权）、出现的频数、TF-IDF值、基于熵的权重、TextRank值、基于CRF的关键词提取
+    - 语义特征
+        # https://github.com/Embedding/Chinese-Word-Vectors
+        # https://www.kaggle.com/c/word2vec-nlp-tutorial
+        - word2vec，glove,fasttext(不适合中文),ELMO,GPT,BERT: 各种变式、加权表示
+        - sentence2vec   # https://github.com/Separius/awesome-sentence-embedding
+        - document2vec
+
+特征处理
+    - 特征转换与特征重构（降维(PCA,ICA)；话题模型：LSA(PCA),NMF,PLSA,LDA；随机投影、自编码器（基于DNN\CNN\RNN）、t-SNE等）
+    - 以上主要是对没有语义的单词向量空间模型来说的
+
+分类模型
+    - 传统机器学习模型（基本模型；多分类实现方式）  # https://www.cnblogs.com/lianyingteng/p/7811126.html
+        - Rocchio classification.
+        - kNN（距离度量学习优化）
+        - 朴素贝叶斯            # https://blog.csdn.net/hao5335156/article/details/82716923
+        - 决策树（调参）
+        - 逻辑回归（自己实现！！！）
+        - 支持向量机
+        - 随机森林、Adaboost、xgboost、lightboost（调参）
+        - 多层感知机
+        - HMM
+        - CRF
+    - 深度学习模型（pytorch系统、fastNLP系统）
+        - CNN
+        - RNN、LSTM、GRU
+        - Self-attention
+        - DBN
+        - HAN
+        - 组合模型 RCNN,C-LSTM   # https://github.com/brightmart/text_classification
+    - SOTA模型
+        - https://chinesenlp.xyz/#/zh/docs/topic_classification
+
+结果与评价
+    - 准确率、召回率、F1值（宏平均；微平均）   # 准确率不适合不平衡数据！！
+    - MCC,ROC,AUC
+
+其他工作：
+    - 数据不平衡问题--------采样
+    - 维度太高--------------降维
+    - 用npy存储比用csv存储要小一半的空间
+    - 文本摘要之后再做分类
+    - 先聚类再分类
+    - 注重效率，时间分析很重要！！！！！！
+    - 利用MapReduce等分布式系统处理
+    - 各种模型的最新进展！
+    - 更少：更少的标签（半监督模型），更少的数据
+    - 类别不平衡对那些算法有影响，对哪些算法没有影响？
+    - bag-of-words的稀疏存储很重要，不要用pandas!也不要随便保存成文本格式！用scipy的sparse
+    - 自己提出的模型：多任务学习、迁移学习
