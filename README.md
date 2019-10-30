@@ -2,10 +2,6 @@
 ![RoadMap](NLPRoadMap.PNG)
 
 
-# 1. COURSE INFOMATION
-
-- Lecturer
-	- [Chris Manning](https://nlp.stanford.edu/~manning/)
 - Homepage
 	- [CS224N](http://web.stanford.edu/class/cs224n/index.html)
 	- [Natural Language Processing Slides, 2012](https://web.stanford.edu/~jurafsky/NLPCourseraSlides.html?utm_source=wechat_session&utm_medium=social&utm_oi=844207196790202368)
@@ -20,44 +16,8 @@
 	- [Natural Language Processing, 2012](https://www.bilibili.com/video/av35805262?from=search&seid=16460359899435869094)
 	- [COMS W4705: Natural Language Processing](http://www.cs.columbia.edu/~mcollins/cs4705-spring2019/)
 
-# 2. NOTES AND PROJECTS
 
-
-
-**COURSE NOTES AND PROJECTS**
-
-
-
-| DATE |  CONTENT      |   MATERIALS  |NOTES| PROJECT  |
-| :--- | :-------- | :--------| :-- | :-- |
-| |[Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/),[TensorFlow](https://pan.baidu.com/s/1c19SI56#list/path=%2F)/[PyTorch](https://pan.baidu.com/s/1cpoyXw)  | | | |
-|2019/09/05 |Introduction and Word Vectors  |[Word Embedding](https://www.bilibili.com/video/av48285039/?p=67), Hung-yi Lee | |  Assignment 1|
-|2019/09/05 |Word Vectors 2 and Word Senses  | | | |
-| |Word Window Classification, Neural Networks, and Matrix Calculus  | | |Assignment 2  |
-| |Backpropagation and Computation Graphs  | | | |
-| |Linguistic Structure: Dependency Parsing  | | |Assignment 3  |
-| |The probability of a sentence? Recurrent Neural Networks and Language Models  | | | |
-| |Vanishing Gradients and Fancy RNNs  | | | Assignment 4 |
-| |Machine Translation, Seq2Seq and Attention  | | | |
-| |Practical Tips for Final Projects/Question Answering and the Default Final Project  | | | |
-| |ConvNets for NLP  | | | |
-| |Information from parts of words: Subword Models  | | |Assignment 5  | 
-| |Modeling contexts of use: Contextual Representations and Pretraining  | | | |
-| |Transformers and Self-Attention For Generative Models  | | | |
-| |Natural Language Generation  | | | | 
-| |Reference in Language and Coreference Resolution | | | | 
-| |Multitask Learning: A general model for NLP?  | | | Final Project |
-| |Constituency Parsing and Tree Recursive Neural Networks  | | | |
-| |Safety, Bias, and Fairness  | | | |
-| |Future of NLP + Deep Learning | | | |
-
-
-
-
-**FINAL PROJECT**
-- DUE
-
-# 3. REFERENCES
+# REFERENCES
 
 
 **NLP入门**
