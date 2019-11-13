@@ -2,25 +2,34 @@
 
 |任务名 |参考资料 |完成情况|
 | :-- | :-- | :---|
+|基础任务 | | | 
 | 正则表达式 | 复旦NLP实验课Homework 1| |
 | 拼写检查 | 复旦大数据学院Homework 1| |
+| 中文分词 | 计科NLP HW1| |
 | 文本关键词提取 |计科NLP课程实验一，基于TextRank提取关键词 | |
+| 文本分类聚类| | |
 | 基于机器学习的文本分类 |复旦NLP-Beginer任务一, 神经网络与深度学习前3章练习题，李宏毅机器学习前2个作业，复旦NLP课程线性分类实验，复旦大数据学院股票预测，计科NLP课程实验二 |  |
-|基于神经网络的语言模型 |复旦NLP-Beginer，李宏毅17年深度学习任务1，复旦大数据学院期末作业1,CS224N前2个作业，大数据NLP第4个作业，复旦NLP实现ESA、LSA算法,神经网络与深度学习4-6章练习题，计科NLP课程实验三词的语义相似度计算|  |
-|基于深度学习的文本分类 |复旦NLP-Beginer任务二，复旦NLP文本分类任务，李宏毅18年深度学习任务一，周昉老师实验室[任务](https://github.com/brightmart/text_classification)，复旦PRML使用FastNLP，李宏毅机器学习作业3、6，计科NLP课程实验五文本情感分析|  |
+|基于深度学习的文本分类 |复旦NLP-Beginer任务二，复旦NLP文本分类任务，李宏毅18年深度学习任务一，复旦PRML使用FastNLP，李宏毅机器学习作业3、6，计科NLP课程实验五文本情感分析|  |
 |文本聚类 |计科NLP课程实验二，李宏毅机器学习实验7 |  |
+|注意力机制 | | |
 |基于注意力机制的文本匹配 |复旦NLP-Beginer |  |
+|语言模型| | |
+|基于神经网络的语言模型 |复旦NLP-Beginer，李宏毅17年深度学习任务1，复旦大数据学院期末作业1,CS224N前2个作业，大数据NLP第4个作业，复旦NLP实现ESA、LSA算法,神经网络与深度学习4-6章练习题，计科NLP课程实验三词的语义相似度计算|  |
+|句法分析 | | |
+|依存句法分析 |CS224N任务三 | |
+|成分句法分析 | | |
+|关系抽取 | | |
 |实体识别 |复旦NLP-Beginer基于LSTM+CRF的序列标注，东南大学知识图谱课程 | | |
 |关系抽取 |计科NLP课程实验四，东南大学知识图谱课程 |  |
 |事件抽取 | 复旦大数据学院作业三，东南大学知识图谱课程|  |
-|依存句法分析 |CS224N任务三 | |
-|成分句法分析 | | |
+|应用 | | |
 |自动问答 |CS224N期末作业 |  |
 |机器翻译 |CS224N实验4、5 | |
 |文本生成 |复旦PRML生成唐诗 |   |
 |Seq2Seq |李宏毅深度学习实验2，李宏毅深度学习17实验2 |  |
 |深度生成网络 |李宏毅深度学习实验3（17年18年），神经网络与深度学习实验11、12，复旦PRML非参数估计 |   |
 |强化学习|神经网络与深度学习14，李宏毅深度学习实验4（17，18） |    |
+| 模型研究| | |
 |模型解释|李宏毅机器学习实验4 |    |
 |模型攻击 |李宏毅机器学习实验5 | |
 |模型压缩 |李宏毅深度学习实验8 | |
@@ -33,9 +42,10 @@ Labs in the NLP course COMS0031132095
 - [x] Supervised Chinese Text Classification
 - [x] Word segmentation and POS tagging based on HMM algorithm (hw1)
 - [x] Text Clustering
+- [ ] Text Sentiment Analysis
 - [ ] Semantic Similarity Calculation of Chinese Words (Word2Vec)
 - [ ] Entity Relationship Extraction
-- [ ] Text Sentiment Analysis
+
 
 
 
