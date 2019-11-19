@@ -58,6 +58,7 @@ Labs in the NLP course COMS0031132095
 
 **基础内容**
 - [CS224N](http://web.stanford.edu/class/cs224n/index.html)
+- [CMU 11-611 for grads](http://demo.clab.cs.cmu.edu/NLP/)
 - [Natural Language Processing Slides, 2012](https://web.stanford.edu/~jurafsky/NLPCourseraSlides.html?utm_source=wechat_session&utm_medium=social&utm_oi=844207196790202368), [Video](https://www.bilibili.com/video/av35805262?from=search&seid=16460359899435869094)
 - [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/), Dan Jurafsky and James H. Martin.
 - [Algorithms for NLP, CMU](http://demo.clab.cs.cmu.edu/11711fa18/)
