@@ -1,40 +1,5 @@
 ![RoadMap](NLPRoadMap.PNG)
 
-|任务名 |参考资料 |完成情况|
-| :-- | :-- | :---|
-|**基础任务** | | | 
-| 正则表达式 | 复旦NLP实验课Homework 1| |
-| 基于机器学习的文本分类 |复旦NLP-Beginer任务一, 神经网络与深度学习前3章练习题，李宏毅机器学习前2个作业，复旦NLP课程线性分类实验，复旦大数据学院股票预测，计科NLP课程实验二 |  |
-|基于深度学习的文本分类 |复旦NLP-Beginer任务二，复旦NLP文本分类任务，李宏毅18年深度学习任务一，复旦PRML使用FastNLP，李宏毅机器学习作业3、6，计科NLP课程实验五文本情感分析|  |
-|文本聚类 |计科NLP课程实验二，李宏毅机器学习实验7 |  |
-|基于神经网络的语言模型 |复旦NLP-Beginer，李宏毅17年深度学习任务1，复旦大数据学院期末作业1,CS224N前2个作业，大数据NLP第4个作业，复旦NLP实现ESA、LSA算法,神经网络与深度学习4-6章练习题，计科NLP课程实验三词的语义相似度计算|  |
-|**词法分析** | | |
-| 中文分词 | 计科NLP HW1| |
-| 拼写检查 | 复旦大数据学院Homework 1| |
-| 文本关键词提取 |计科NLP课程实验一，基于TextRank提取关键词 | |
-|**句法分析** | | |
-|依存句法分析 |CS224N任务三 | |
-|成分句法分析 | | |
-|**信息抽取** | | |
-|实体识别 |复旦NLP-Beginer基于LSTM+CRF的序列标注，东南大学知识图谱课程 | | 
-|关系抽取 |计科NLP课程实验四，东南大学知识图谱课程 |  |
-|事件抽取 | 复旦大数据学院作业三，东南大学知识图谱课程|  |
-|基于注意力机制的文本匹配 |复旦NLP-Beginer |  |
-|**应用** | | |
-|自动问答 |CS224N期末作业 |  |
-|机器翻译 |CS224N实验4、5 | |
-|文本生成 |复旦PRML生成唐诗 |   |
-|Seq2Seq |李宏毅深度学习实验2，李宏毅深度学习17实验2 |  |
-|深度生成网络 |李宏毅深度学习实验3（17年18年），神经网络与深度学习实验11、12，复旦PRML非参数估计 |   |
-|强化学习|神经网络与深度学习14，李宏毅深度学习实验4（17，18） |    |
-|**模型研究**| | |
-|模型解释|李宏毅机器学习实验4 |    |
-|模型攻击 |李宏毅机器学习实验5 | |
-|模型压缩 |李宏毅深度学习实验8 | |
-|**其他项目** |复旦大数据学院NLP期末实验，李宏毅深度学习17年期末作业 |   |
-
--------------------------------------------------
-
 Labs in the NLP course COMS0031132095
 - [x] Keywords Extraction using TF-IDF Algorithm
 - [x] Supervised Chinese Text Classification
@@ -53,7 +18,6 @@ Labs in the NLP course COMS0031132095
 **NLP入门**
 - [Bag of Words Meets Bags of Popcorn](https://www.kaggle.com/c/word2vec-nlp-tutorial)
 - [复旦大学邱锡鹏教授：词法、句法分析研究进展综述（2019年5月1日）](https://mp.weixin.qq.com/s/AP4TCnRfIccqAxDu4FlBew)
-- [A Summary of Constituent Parsing](https://godweiyang.com/2018/09/26/constituent-parsing-summary/)&emsp;[递归神经网络](https://zybuluo.com/hanbingtao/note/626300)
 - [NLP-Beginner：自然语言处理入门练习](https://github.com/SimpleLP/nlp-beginner)
 
 **基础内容**
