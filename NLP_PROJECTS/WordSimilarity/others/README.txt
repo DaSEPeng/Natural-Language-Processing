@@ -1,0 +1,1 @@
+说明，词向量由于太大不方便上传，可以从https://github.com/Embedding/Chinese-Word-Vectors下载
