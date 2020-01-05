@@ -1,13 +1,9 @@
-![RoadMap](NLPRoadMap.PNG)
-
-Labs in the NLP course COMS0031132095
 - [x] Keywords Extraction using TF-IDF Algorithm
 - [x] Supervised Chinese Text Classification
 - [x] Word segmentation and POS tagging based on HMM algorithm (hw1)
 - [x] Text Clustering
-- [ ] Text Sentiment Analysis
-- [ ] Semantic Similarity Calculation of Chinese Words (Word2Vec)
-- [ ] Entity Relationship Extraction
+- [x] Text Sentiment Analysis based on ML
+- [x] Semantic Similarity Calculation of Chinese Words (Based on Dict & Word2Vec)
 
 
 
