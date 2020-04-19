@@ -2,7 +2,11 @@
 - 课程主页：[LINK](http://web.stanford.edu/class/cs224n/index.html)
 - TBC
 
-
+## CS224N Project
+- 词向量预热
+- 词向量实现
+- 依存分析
+- 神经网络翻译
 
 
 ## REFERENCES
