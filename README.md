@@ -8,6 +8,9 @@
 - 依存分析
 - 神经网络翻译
 
+## 待整理文章
+- [理解GloVe模型](https://blog.csdn.net/coderTC/article/details/73864097)
+
 
 ## REFERENCES
 
