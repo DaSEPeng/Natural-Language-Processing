@@ -1,22 +1,11 @@
-# 自然语言处理
+# Natural Language Processing
 
-## Courses
-- Homepage: [link](http://web.stanford.edu/class/cs224n/index.html)
-- Instructor: [Christopher Manning](https://nlp.stanford.edu/~manning/)
+## Notes & Projects
 
-| | | |
-| | | |
-| | | |
-
-## CS224N Project
-- 词向量预热
-- 词向量实现
-- 依存分析
-- 神经网络翻译
-
-## 待整理文章
-- [理解GloVe模型](https://blog.csdn.net/coderTC/article/details/73864097)
-
+|Topic |Notes | References | Projects|
+| :--: | :--: | :--: |:--:|
+| | | | |
+|**Syntactic Analysis** | | | |
 
 ## REFERENCES
 - [Bag of Words Meets Bags of Popcorn](https://www.kaggle.com/c/word2vec-nlp-tutorial)
@@ -37,7 +26,7 @@
 - 统计自然语言处理（第二版），宗成庆著
 - [复旦大学邱锡鹏教授：词法、句法分析研究进展综述（2019年5月1日）](https://mp.weixin.qq.com/s/AP4TCnRfIccqAxDu4FlBew)
 - [NLP-Beginner：自然语言处理入门练习](https://github.com/SimpleLP/nlp-beginner)
-
+- [理解GloVe模型](https://blog.csdn.net/coderTC/article/details/73864097)
 
 
 
