@@ -1,8 +1,12 @@
-# Natural Language Processing
+# 自然语言处理
 
-## CS224N课程内容
-- 课程主页：[LINK](http://web.stanford.edu/class/cs224n/index.html)
-- TBC
+## Courses
+- Homepage: [link](http://web.stanford.edu/class/cs224n/index.html)
+- Instructor: [Christopher Manning](https://nlp.stanford.edu/~manning/)
+
+| | | |
+| | | |
+| | | |
 
 ## CS224N Project
 - 词向量预热
