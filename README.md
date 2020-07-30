@@ -1,14 +1,17 @@
-# Natural Language Processing
+# 自然语言处理
 
-## Notes & Projects
+## 笔记 & 项目
 
-|Topic |Notes | References | Projects|
+|主题 |笔记 | 参考资料 | 项目|
 | :--: | :--: | :--: |:--:|
-|**Lexical Analysis** | | | |
-|**Syntactic Analysis** | | | |
+|**基础知识** | | | |
+|**词法分析** | | | |
+|**句法分析** | | | |
+|**语义分析** | | | |
+|**篇章分析** | | | |
+|**应用** | | | |
 
-
-## REFERENCES
+## 参考资料
 - [Bag of Words Meets Bags of Popcorn](https://www.kaggle.com/c/word2vec-nlp-tutorial)
 - [Deep Learning for Human Language Processing](http://speech.ee.ntu.edu.tw/~tlkagk/courses_DLHLP20.html)
 - [CMU 11-611 for grads](http://demo.clab.cs.cmu.edu/NLP/)
