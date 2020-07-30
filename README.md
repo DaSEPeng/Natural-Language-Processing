@@ -2,6 +2,7 @@
 
 ## 笔记 & 项目
 
+
 |主题 |笔记 | 参考资料 | 项目|
 | :--: | :--: | :--: |:--:|
 |**基础知识** | | | |
@@ -12,6 +13,7 @@
 |**语义分析** | | | |
 |**篇章分析** | | | |
 |**应用** | | | |
+
 
 ## 参考资料
 - [Bag of Words Meets Bags of Popcorn](https://www.kaggle.com/c/word2vec-nlp-tutorial)
