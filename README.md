@@ -4,7 +4,7 @@
 
 |Topic |Notes | References | Projects|
 | :--: | :--: | :--: |:--:|
-|**Lexical Analysis** | ![test](https://dasepli.github.io/profile.png)| | |
+|**Lexical Analysis** | | | |
 |**Syntactic Analysis** | | | |
 
 
